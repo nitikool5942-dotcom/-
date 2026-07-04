@@ -1,0 +1,6 @@
+{
+  "name": "ครูผู้ช่วย Garden",
+  "description": "แพลตฟอร์มติวและคลังข้อสอบเตรียมสอบครูผู้ช่วย (Kru Phuchuai Garden) ด้วยบรรยากาศผ่อนคลายสไตล์สวนปัญญา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
